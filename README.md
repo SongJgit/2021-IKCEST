@@ -12,9 +12,8 @@
 <font color=gray size=5></font>
 分割模型使用PaddleSeg框架,在Aistudio完成训练  
 检测模型使用基于YoloV5修改,在本地1080Ti/*4上完成训练  
-
----
 分割模型推理代码由PaddleSeg/inference修改而来  
+
 ---
 ## 提交代码摘要  
 ### predict.py  
