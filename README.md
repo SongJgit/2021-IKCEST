@@ -6,7 +6,7 @@
  * @LastEditors: SongJ
  * @LastEditTime: 2021-09-01 09:56:37
 -->
-# [2021 IKCEST第三届“一带一路”国际大数据竞赛暨第七届百度&西安交大大数据竞赛](https://aistudio.baidu.com/aistudio/competition/detail/91)
+# [2021 IKCEST第三届“一带一路”国际大数据竞赛暨第七届百度&西安交大大数据竞赛三等奖(16名)](https://aistudio.baidu.com/aistudio/competition/detail/91)
 
 ## 比赛提交代码  
 <font color=gray size=5></font>
